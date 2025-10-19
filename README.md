@@ -30,7 +30,7 @@ If you are using another system, you may need to adapt the commands.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/nharrand/tatou.git
+git clone https://github.com/Es224ther/tatou.git
 cd tatou
 
 Note that you should probably fork the repo and clone your own repo.
